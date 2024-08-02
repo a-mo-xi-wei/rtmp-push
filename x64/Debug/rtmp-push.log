@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\code_review\rtmp-push\rtmp-push\main.cpp(34,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  rtmp-push.vcxproj -> F:\code_review\rtmp-push\x64\Debug\rtmp-push.exe
